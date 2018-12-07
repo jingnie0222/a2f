@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk
+END
+DataFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/DataFile.py
+END
+PuppeteerActions.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/PuppeteerActions.py
+END
+Template.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/Template.py
+END
+detector_news_wap.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/detector_news_wap.py
+END
+UserAgent.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/UserAgent.py
+END
+offical_detector_pc.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/offical_detector_pc.py
+END
+vrfetch.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/vrfetch.py
+END
+Mail.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/Mail.py
+END
+mailtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qadev/!svn/ver/50662/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/mailtest.py
+END
+offical_detector_wap.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/offical_detector_wap.py
+END
+DBHelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/DBHelper.py
+END
+macosx_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qadev/!svn/ver/50788/ProjectSupport/Search/DjangoProject/websearchMonitor/tools/vrfetch/trunk/macosx_check.py
+END
